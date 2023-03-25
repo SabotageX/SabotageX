@@ -1,3 +1,30 @@
+### Programming language
+<a><img src="https://img.shields.io/badge/-NODE.JS-%7BCOLOR/HEX%7D?logo=nodedotjs&logoColor=green&style=for-the-badge&color=1c1919"><a/>
+<a><img src="https://img.shields.io/badge/-Oracle Java-%7BCOLOR/HEX%7D?logo=oracle&logoColor=red&style=for-the-badge&color=1c1919"><a/>
+<a><img src="https://img.shields.io/badge/-C%23-%7BCOLOR/HEX%7D?logo=csharp&logoColor=green&style=for-the-badge&color=1c1919"><a/>
+<a><img src="https://img.shields.io/badge/-R-%7BCOLOR/HEX%7D?logo=R&logoColor=blue&style=for-the-badge&color=1c1919"><a/>
+<a><img src="https://img.shields.io/badge/-NIM-%7BCOLOR/HEX%7D?logo=nim&style=for-the-badge&color=1c1919"><a/>
+<a><img src="https://img.shields.io/badge/-Python3-%7BCOLOR/HEX%7D?logo=python&style=for-the-badge&color=1c1919"><a/>
+
+### Database
+<a><img src="https://img.shields.io/badge/-redis-%7BCOLOR/HEX%7D?logo=redis&style=for-the-badge&color=1c1919"><a/>
+<a><img src="https://img.shields.io/badge/-MySQL-%7BCOLOR/HEX%7D?logo=mysql&style=for-the-badge&color=1c1919"><a/>
+<a><img src="https://img.shields.io/badge/-Neo4J-%7BCOLOR/HEX%7D?logo=neo4j&style=for-the-badge&color=1c1919"><a/>
+<a><img src="https://img.shields.io/badge/-Sqlite-%7BCOLOR/HEX%7D?logo=sqlite&style=for-the-badge&color=1c1919"><a/>
+<a><img src="https://img.shields.io/badge/-PostgreSQL-%7BCOLOR/HEX%7D?logo=postgresql&style=for-the-badge&color=1c1919"><a/>
+
+### DevSecOPS
+<a><img src="https://img.shields.io/badge/-docker-%7BCOLOR/HEX%7D?logo=docker&style=for-the-badge&color=1c1919"><a/>
+<a><img src="https://img.shields.io/badge/-Linux%20OS-%7BCOLOR/HEX%7D?logo=linux&style=for-the-badge&color=1c1919"><a/>
+<a><img src="https://img.shields.io/badge/-Grafana-%7BCOLOR/HEX%7D?logo=grafana&style=for-the-badge&color=1c1919"><a/>
+<a><img src="https://img.shields.io/badge/-RabbitMQ-%7BCOLOR/HEX%7D?logo=rabbitmq&style=for-the-badge&color=1c1919"><a/>
+<a><img src="https://img.shields.io/badge/-AMAZON%20AWS-%7BCOLOR/HEX%7D?logo=amazonaws&style=for-the-badge&color=1c1919"><a/>
+<a><img src="https://img.shields.io/badge/-GIT%20CI%2fCD-%7BCOLOR/HEX%7D?logo=git&style=for-the-badge&color=1c1919"><a/>
+  
+<a><img src="https://img.shields.io/badge/-SNORT-%7BCOLOR/HEX%7D?style=for-the-badge&color=30576e"><a/>
+<a><img src="https://img.shields.io/badge/-SURICATA-%7BCOLOR/HEX%7D?style=for-the-badge&color=30576e"><a/>
+### Testing tool
+<a><img src="https://img.shields.io/badge/-BurpSuit-%7BCOLOR/HEX%7D?style=for-the-badge&color=c46a31"><a/>
 
 <br/>  
 
