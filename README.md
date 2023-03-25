@@ -22,8 +22,8 @@
 <a><img src="https://img.shields.io/badge/-GIT%20CI%2fCD-%7BCOLOR/HEX%7D?logo=git&style=for-the-badge&color=1c1919"><a/>
 <a><img src="https://img.shields.io/badge/-NGINX-%7BCOLOR/HEX%7D?logo=nginx&style=for-the-badge&color=1c1919"><a/>
   
-<a><img src="https://img.shields.io/badge/-SNORT-%7BCOLOR/HEX%7D?style=for-the-badge&color=30576e"><a/>
-<a><img src="https://img.shields.io/badge/-SURICATA-%7BCOLOR/HEX%7D?style=for-the-badge&color=30576e"><a/>
+<a><img src="https://img.shields.io/badge/-SNORT-%7BCOLOR/HEX%7D?style=for-the-badge&color=343440"><a/>
+<a><img src="https://img.shields.io/badge/-SURICATA-%7BCOLOR/HEX%7D?style=for-the-badge&color=343440"><a/>
   
 ### Testing tool
 <a><img src="https://img.shields.io/badge/-BurpSuit-%7BCOLOR/HEX%7D?style=for-the-badge&color=c46a31"><a/>
