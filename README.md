@@ -20,11 +20,15 @@
 <a><img src="https://img.shields.io/badge/-RabbitMQ-%7BCOLOR/HEX%7D?logo=rabbitmq&style=for-the-badge&color=1c1919"><a/>
 <a><img src="https://img.shields.io/badge/-AMAZON%20AWS-%7BCOLOR/HEX%7D?logo=amazonaws&style=for-the-badge&color=1c1919"><a/>
 <a><img src="https://img.shields.io/badge/-GIT%20CI%2fCD-%7BCOLOR/HEX%7D?logo=git&style=for-the-badge&color=1c1919"><a/>
+<a><img src="https://img.shields.io/badge/-NGINX-%7BCOLOR/HEX%7D?logo=nginx&style=for-the-badge&color=1c1919"><a/>
   
 <a><img src="https://img.shields.io/badge/-SNORT-%7BCOLOR/HEX%7D?style=for-the-badge&color=30576e"><a/>
 <a><img src="https://img.shields.io/badge/-SURICATA-%7BCOLOR/HEX%7D?style=for-the-badge&color=30576e"><a/>
+  
 ### Testing tool
 <a><img src="https://img.shields.io/badge/-BurpSuit-%7BCOLOR/HEX%7D?style=for-the-badge&color=c46a31"><a/>
+<a><img src="https://img.shields.io/badge/-NMAP-%7BCOLOR/HEX%7D?style=for-the-badge&color=19426e"><a/>
+<a><img src="https://img.shields.io/badge/-Owasp%20Zap-%7BCOLOR/HEX%7D?style=for-the-badge&color=52508a"><a/>
 
 <br/>  
 
